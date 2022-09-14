@@ -1,2 +1,2 @@
-# Javascript-Hello-world-App
+# Hello-world-App
 Create a simple hello world app and the usage of simple JavaScript
